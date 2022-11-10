@@ -1,0 +1,64 @@
+{
+    "name": "Lucas Augusto",
+    "job": "Mechanic/Welder",
+    "github": "LucasAZanetti",
+    "playlists": {
+        "livros": [
+            {
+                "title": "O Mestre e Margarida - trecho da série sobre o livro",
+                "url": "https://www.youtube.com/watch?v=bHOgIOXZJ7w&ab_channel=GabrielMichelli",
+                "thumb": "http://img.youtube.com/vi/bHOgIOXZJ7w/default.jpg"
+            },
+            {
+                "title": "Crime e Castigo - Trecho filme sobre o livro",
+                "url": "https://www.youtube.com/watch?v=Oh-MK4gNj_E&ab_channel=LuizitoZone",
+                "thumb": "http://img.youtube.com/vi/Oh-MK4gNj_E/hqdefault.jpg"
+            },
+            {
+                "title": "O Estrangeiro",
+                "url": "https://www.youtube.com/watch?v=XYv88uvLYVE&ab_channel=Inspira%C3%A7%C3%A3oLiter%C3%A1ria",
+                "thumb": "http://img.youtube.com/vi/XYv88uvLYVE/mqdefault.jpg"
+            },
+            {
+                "title": "Recusa do não-lugar",
+                "url": "https://www.youtube.com/watch?v=FSS4iybIqcM&ab_channel=EscritaCriativa",
+                "thumb": "http://img.youtube.com/vi/FSS4iybIqcM/mqdefault.jpg   "
+            },
+            {
+                "title": "A Invenção de Morel",
+                "url": "https://www.youtube.com/watch?v=Bk9_CVklsj8&ab_channel=FedericoFoglia",
+                "thumb": "http://img.youtube.com/vi/Bk9_CVklsj8/mqdefault.jpg"
+            }
+        ],
+
+         "músicas": [
+            {
+                "title": "Houses of the Holly - Led Zeppelin",
+                "url": "https://www.youtube.com/watch?v=eLnD-CVIssY&t=2032s&ab_channel=IrishO%27African",
+                "thumb": "http://img.youtube.com/vi/eLnD-CVIssY/mqdefault.jpg"
+            },
+            {
+                "title": "Larks Tongues in Aspic - King Crimson",
+                "url": "https://www.youtube.com/watch?v=VtxFAA0xlg8&list=PLXhfRoiJBIitfeySfg3M2JpsHofCulKv9&ab_channel=KingCrimson",
+                "thumb": "http://img.youtube.com/vi/VtxFAA0xlg8/mqdefault.jpg"
+            },
+            {
+                "title": "South of Reality - The Lennon Claypool Delirium",
+                "url": "https://www.youtube.com/watch?v=-gftQwD_lUc&list=PLvqTpHqZfeJKwVMA_z43Ix7LCrg_sBmEw&ab_channel=L%27enfantterrible",
+                "thumb": "http://img.youtube.com/vi/-gftQwD_lUc/mqdefault.jpg"
+            },
+            {
+                "title": "A Passage to Rodhesia - Rome",
+                "url": "https://www.youtube.com/watch?v=lrAoYcp21j8&t=1601s&ab_channel=Renmin",
+                "thumb": "http://img.youtube.com/vi/lrAoYcp21j8/mqdefault.jpg"
+            },
+            {
+                "title": "Close to the Edge - YES",
+                "url": "https://www.youtube.com/watch?v=GNkWac-Nm0A&ab_channel=leokb7",
+                "thumb": "http://img.youtube.com/vi/GNkWac-Nm0A/mqdefault.jpg"
+            }
+
+        ]
+    }
+
+}
